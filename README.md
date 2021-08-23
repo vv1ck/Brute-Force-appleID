@@ -1,6 +1,6 @@
 # Brute-Force-apple Id
 
-Brute Force apple Id:
+Brute Force appleId/iCloud :
 -
 - Works without proxies
 - No Ban
