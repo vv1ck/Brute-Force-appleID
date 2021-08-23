@@ -12,4 +12,6 @@ closed-appleID.txt
 - Combo system is an email: pass
 - Works on all devices...
 -
+By <a href="http://t.me/vv1ck">[<font size="2" face="Courier New" color="#1471eb">@JOKER</font>]</h3>
+-
 See
