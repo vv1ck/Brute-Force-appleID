@@ -8,6 +8,7 @@ r=requests.session()
 def vv1ck(*a, **b):
 	with PRNT:
 		print(*a, **b)
+
 print("""
     ___   Brute Force  __        ________  
    /   |  ____  ____  / /__     /  _/ __ \   
