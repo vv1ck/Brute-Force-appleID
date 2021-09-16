@@ -8,7 +8,6 @@ r=requests.session()
 def vv1ck(*a, **b):
 	with PRNT:
 		print(*a, **b)
-
 print("""
     ___   Brute Force  __        ________  
    /   |  ____  ____  / /__     /  _/ __ \   
@@ -65,11 +64,4 @@ def AppleID_True():
 	print('\t\t\t\t\t'+DN)
 	AppleID_File()
 AppleID_True()
-
-# اولا انا غير مسوؤل لاي استخدام غير قانوني او يسبب ضرر للناس الغرض من الاداة توعية المجتمع بشكل عام للحذر من اخطاء قد يرونها بسيطة ولكن قد تتسبب بعواقب وخيمة قم دائما بوضع كلمة مرور قوية لكي يصعب تخمينها بالاضافة الى ذالك قم بتغير معلومات حساباتك بين فترة واخرى ، لا تعلم من الممكن ان يحصل تسريب في احد المواقع/البرامج التي قمت بالدخول اليها ويتم تسريب معلوماتك لذالك الاحتياط واجب امن نفسك قبل فوات الاوان ..
-# First, I am not responsible for any illegal use or harm to people. The purpose of the tool is to educate the community in general to beware of mistakes they may see as simple, but may cause serious consequences. Always put a strong password so that it is difficult to guess. In addition, change your account information from time to time, You do not know that a leak may occur in one of the sites/programs that you have accessed and your information will be leaked, so precaution is the duty to secure yourself before it is too late..
-
-# الاداة مجانيه لا احلل لمن يبيعها ...
-#The tool is free, do not sell it
-
-# By JOKER | telegram: @vv1ck
+# By Joker telegram : vv1ck / isnta: 221298
