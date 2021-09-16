@@ -12,6 +12,11 @@ closed-appleID.txt
 - Combo system is an email: pass
 - Works on all devices...
 -
-By <a href="http://t.me/vv1ck">[<font size="2" face="Courier New" color="#1471eb">@JOKER</font>]</h3>
+install in kali linux :
+- git clone https://github.com/vv1ck/Brute-Force-appleID.git
+- cd Brute-Force-appleID
+- python3 Brute-Force-appleID.py
 -
-Seee
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
+-
+see
