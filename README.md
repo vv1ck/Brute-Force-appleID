@@ -11,7 +11,7 @@ Hacked-appleID.txt
 closed-appleID.txt
 - Combo system is an email: pass
 - Works on all devices...
--
+--------------------
 install in kali linux :
 
 <!--START_SECTION:waka-->
