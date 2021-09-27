@@ -32,8 +32,7 @@ python3 Brute-Force-appleID.py
 ```
 <!--END_SECTION:waka-->
 
--
--
+--------------------
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
 see
