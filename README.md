@@ -13,9 +13,26 @@ closed-appleID.txt
 - Works on all devices...
 -
 install in kali linux :
-- git clone https://github.com/vv1ck/Brute-Force-appleID.git
-- cd Brute-Force-appleID
-- python3 Brute-Force-appleID.py
+
+<!--START_SECTION:waka-->
+```
+git clone https://github.com/vv1ck/Brute-Force-appleID.git
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```
+cd Brute-Force-appleID
+```
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+```
+python3 Brute-Force-appleID.py
+```
+<!--END_SECTION:waka-->
+
+-
 -
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
