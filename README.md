@@ -31,11 +31,11 @@ cd Brute-Force-appleID
 
 <!--START_SECTION:waka-->
 ```
-python3 Brute-Force-appleID.py
+python3 Brute_Force_appleID_V2.py
 ```
 <!--END_SECTION:waka-->
 
 --------------------
-By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
+By JOKER | <a class="" href="https://www.instagram.com/221298">instagram ☑️</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
 see
