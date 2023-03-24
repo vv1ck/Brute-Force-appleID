@@ -1,7 +1,11 @@
-# Brute-Force-apple Id
-
+# Brute-Force-appleId-v2
+-
 Brute Force appleId/iCloud :
 -
+
+- Mode 1- Target a specific email with a list of passwords
+- Mode 2- Combo system is an email: pass
+
 - Works without proxies
 - No Ban
 - Automatic sleep every second request
@@ -9,7 +13,6 @@ Brute Force appleId/iCloud :
 Hacked-appleID.txt
 - Closed accounts are kept in a file:
 closed-appleID.txt
-- Combo system is an email: pass
 - Works on all devices...
 --------------------
 install in kali linux :
